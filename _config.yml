@@ -1,0 +1,12 @@
+# Site settings
+title: Mark Hellar
+email: mark@hellarstudios.com
+description: > # this means to ignore newlines until "baseurl:"
+  Awesome greatness
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mhellar.github.io" # the base hostname & protocol for your site
+twitter_username: mhellar
+github_username:  mhellar
+
+# Build settings
+markdown: kramdown
