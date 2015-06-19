@@ -1,0 +1,8 @@
+p {
+			color: green;
+			background-color: red;
+			border: 18px dashed magenta;
+			text-align: center;
+			background-image: "img/portal.svg";
+			font-size: 90px;
+		}
