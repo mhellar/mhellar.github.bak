@@ -9,16 +9,16 @@ div {
     background-color: red;
     position: relative;
     animation-name: example;
-    animation-duration: 4s;
+    animation-duration: 8s;
 }
 
 /* Standard syntax */
 @keyframes example {
-    0%   {background-color:red; left:0px; top:0px;}
-    25%  {background-color:yellow; left:200px; top:0px;}
-    50%  {background-color:blue; left:200px; top:200px;}
+    0%   {background-color:red; left:0px; top:0px; transform: rotate(10deg);  }
+    25%  {background-color:yellow; left:200px; top:0px; transform: rotate(30deg); }
+    50%  {background-color:blue; left:200px; top:200px; transform: rotate(60deg); }
     75%  {background-color:green; left:0px; top:200px;}
-    100% {background-color:red; left:0px; top:0px;}
+    100% {background-color:red; left:0px; top:0px; transform: rotate(90deg); }
 }
 </style>
 </head>
