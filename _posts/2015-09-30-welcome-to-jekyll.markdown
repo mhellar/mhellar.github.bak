@@ -1,25 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Tech Focus 3"
 date:   2015-09-30 10:39:37
-categories: jekyll update
+categories: updates
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I was very honored to particitpate in this 2 day Symposium at The Solomon R. Guggenheim Museum:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+###TechFocus III: Caring for Software-based Art
 
-Jekyll also offers powerful support for code snippets:
+Software-based artworks have been gradually entering collections over the past three decades. However, the preservation of works created in this medium has proved challenging for collection caretakers due to its relative scarcity and perceived complexity. Designed to educate collection professionals of all disciplines, this two-day workshop and symposium will bridge this knowledge gap and present some of the challenges, risks, and the state of current practice in the care of software-based artworks, with contributions from conservators, curators, art historians, archivists, artists, and computer scientists.
+Topics will include the history of software-based art and its underlying technology, code analysis, documentation methods, risk assessment, storage and access, and strategies for long-term preservation. Four practical exercises will introduce participants to the concepts of coding, version control as a preservation tool, disk imaging and emulation.
+It is hoped that the program will raise awareness and advance the development of standards and best practice in the care and conservation of this new genre of contemporary art. The workshop will also provide a forum for professionals to gather and debate these emerging preservation strategies on an international level.
+The workshop is made possible by the generous support of the Foundation of the American Institute for the Conservation of Historic and Artistic Works (FAIC), the National Endowment of the Arts and the Solomon R. Guggenheim Museum.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[Full Description here](http://cool.conservation-us.org/cool/techfocus/techfocus-iii-caring-for-computer-based-art-software-tw)
