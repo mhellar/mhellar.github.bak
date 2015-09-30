@@ -4,7 +4,7 @@ title:  "Tech Focus 3"
 date:   2015-09-30 10:39:37
 categories: updates
 ---
-I was very honored to particitpate in this 2 day Symposium at The Solomon R. Guggenheim Museum:
+I was very honored to participate in this 2 day Symposium at The Solomon R. Guggenheim Museum:
 
 ###TechFocus III: Caring for Software-based Art
 
