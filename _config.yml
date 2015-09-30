@@ -2,7 +2,6 @@
 title: Mark Hellar
 email: mark@hellarstudios.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi! I'm Mark Hellar, welcome to my github page.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mhellar.github.io/" # the base hostname & protocol for your site
 twitter_username: mhellar

@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Mark Hellar is a leading technology consultant for cultural institutions throughout the San Francisco Bay Area and beyond and owner of Hellar Studios LLC. Mark specializes in creative yet practical digital media and web-based solutions for multimedia artists and the institutions that support their work, with an emphasis on developing systems and best practices for archiving, documentation and exhibition.
